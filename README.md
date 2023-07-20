@@ -3,7 +3,7 @@
 ## 📢 Profile
 - Uhm Hyeon Kyo
 - Pyeng-Taek University
-- School of Computer Information and Communication Engineering 09
+- School of Computer Information and Communication Engineering
 - pong123123@naver.com
 
 ## 💻 Skills

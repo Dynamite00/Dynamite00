@@ -3,7 +3,6 @@ I enjoy walking and reading. 🏃🏻‍♂️📘
 
 ## 📢 Profile
 - Uhm Hyeon Kyo
-- Pyeng-Taek University
 - School of Computer Information and Communication Engineering
 - pong123123@naver.com
 

@@ -24,9 +24,11 @@ I enjoy walking and reading. 🏃🏻‍♂️📘
 ## 📚 CERTIFICATE
 - Engineer Information Processing
 
-## ✏️ Blog For Learning - <a href="">Here</a>
+## 📋 Portfolio - <a href="">Here</a>
 [![image]()
 
-## 📋 Portfolio Website - <a href="">Here</a>
+
+## ✏️ Server Login For Learning - <a href="">Here</a>
 [![image]()
+
 

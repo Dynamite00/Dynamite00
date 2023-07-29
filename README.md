@@ -3,7 +3,7 @@ I enjoy walking and reading. 🏃🏻‍♂️📘
 
 ## 📢 Profile
 - Uhm Hyeon Kyo
-- School of Computer Information and Communication Engineering
+- Department of Information and Communication Major
 - pong123123@naver.com
 
 ## 💻 Skills

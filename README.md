@@ -25,12 +25,12 @@ I enjoy walking and reading. 🏃🏻‍♂️📘
 - Engineer Information Processing
 
 ## 📋 Portfolio
+<img align=center
+[![1](https://github-production-user-asset-6210df.s3.amazonaws.com/137602870/256998213-a6feeef5-a390-4da2-8dda-d659414f81dd.PNG)](https://uhmshomepage.netlify.app/)
+>
 
-[![1](https://github.com/Dynamite00/Dynamite00/assets/137602870/a6feeef5-a390-4da2-8dda-d659414f81dd)][(https://cli.netlify.com/commands/sites/](https://uhmshomepage.netlify.app/))
 
-[![텍스트](이미지URL이나 경로)](링크URL)
-
-## ✏️ Server Login For Learning - <a href="">Here</a>
-[![image]()
+## ✏️ Server Login For Learning
+<!--[![이미지 이름](이미지 주소.png/jpg)](링크URL)//-->
 
 

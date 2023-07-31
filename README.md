@@ -21,7 +21,7 @@ I enjoy walking and reading. 🏃🏻‍♂️📘
 <span><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/></span>
 
 
-## 📚 CERTIFICATE
+## 📚 Certificate
 - Engineer Information Processing
 
 ## 📋 Portfolio
@@ -30,7 +30,7 @@ I enjoy walking and reading. 🏃🏻‍♂️📘
 [![2](https://github-production-user-asset-6210df.s3.amazonaws.com/137602870/257270421-7cb47143-7f30-42a2-920a-41725ab1a224.PNG)](https://uhmshomepage.netlify.app/)
 
 
-## ✏️ Server Login For Learning
+## ✏️ For Learning
 
 <a href="https://uhmslogin.netlify.app/">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/137602870/257288647-896d3c3a-0cd5-4276-a877-cae91d901dbd.PNG" alt="" width="100%" height="285">

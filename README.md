@@ -22,7 +22,7 @@ I enjoy walking and reading. 🏃🏻‍♂️📘
 
 
 ## 📚 Certificate
-- Engineer Information Processing
+- Engineer Information Processing  <2023.06.09>
 
 ## 📋 Portfolio
 <!--   [![이미지 이름](이미지 주소.png/jpg)](링크URL)   -->

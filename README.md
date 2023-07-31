@@ -1,5 +1,12 @@
-### Hi there 👋
-I enjoy walking and reading. 🏃🏻‍♂️📘
+### Hello 👋
+
+Welcome to HyeonKyo Uhm's Github!
+
+I am studying programming language and CS basic knowledge to become a programmer.
+
+Right now I feel that I am lacking a lot, but I am working hard and will achieve it.
+
+When I am stressed, I relieve it by reading a book or going out for a walk. 🏃🏻‍♂️📘
 
 ## 📢 Profile
 - Uhm Hyeon Kyo

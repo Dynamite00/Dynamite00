@@ -39,6 +39,6 @@ When I am stressed, I spend my time reading a book or going out for a walk. 🏃
 ## ✏️ For Learning
 
 <a href="https://uhmslogin.netlify.app/">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/137602870/257288647-896d3c3a-0cd5-4276-a877-cae91d901dbd.PNG" alt="" width="100%" height="10%">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/137602870/257288647-896d3c3a-0cd5-4276-a877-cae91d901dbd.PNG" alt="" width="100%" height="285">
 <a>
 

@@ -16,12 +16,14 @@ When I am stressed, I spend my time reading a book or going out for a walk. 🏃
 ## 💻 Skills
 
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Java-A8B9CC?style=flat&logo=java&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Java-007396?style=flat-for-the-badge&logo=java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/></span></br>
+
+<!-- <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/></span></br> -->
+
 <span><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/></span>
@@ -38,6 +40,7 @@ When I am stressed, I spend my time reading a book or going out for a walk. 🏃
 
 
 ## ✏️ For Learning
+- Login server
 
 <a href="https://uhmslogin.netlify.app/">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/137602870/257288647-896d3c3a-0cd5-4276-a877-cae91d901dbd.PNG" alt="" width="100%" height="250">

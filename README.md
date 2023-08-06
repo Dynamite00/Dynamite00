@@ -13,7 +13,7 @@ When I am stressed, I spend my time reading a book or going out for a walk. 🏃
 - Department of Information and Communication Major
 - pong123123@naver.com
 
-## 💻 Skills
+## 💻 Tech Stack
 
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat-for-the-badge&logo=java&logoColor=white"/></span>

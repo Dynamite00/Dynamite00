@@ -2,7 +2,7 @@
 
 Welcome to HyeonKyo Uhm's Github !
 
-I am studying programming language and cs basic knowledge to become a programmer.
+I am studying programming language and cs basic knowledge.
 
 Right now I feel that I am lacking a lot, but I am working hard and will achieve it.
 

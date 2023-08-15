@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Welcome to HyeonKyo Uhm's Github !
+Welcome to Uhm HyeonKyo Github !
 
 I am studying programming language and cs basic knowledge.
 

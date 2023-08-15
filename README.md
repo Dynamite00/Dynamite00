@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Welcome to Uhm HyeonKyo Github !
+Welcome to Dynamite00 Github !
 
 I am studying programming language and cs basic knowledge.
 

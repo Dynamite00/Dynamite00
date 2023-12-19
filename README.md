@@ -2,11 +2,6 @@
 
 Welcome to Dynamite00 Github !
 
-I am studying programming language and cs basic knowledge.
-
-Right now I feel that I am lacking a lot, but I am working hard and will achieve it.
-
-When I am stressed, I spend my time reading a book or going out for a walk. 🏃🏻‍♂️📘
 
 ## 📢 Profile
 - Uhm Hyeon Kyo

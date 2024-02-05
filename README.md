@@ -36,13 +36,13 @@ When I feel stressed, I spend time singing or going for a light walk. 🎤🏃�
 - ISTQB Foundation Level
 - Engineer Information Processing
 
-<!-- ## 📋 Portfolio
+ ## 📋 Portfolio
    [![이미지 이름](이미지 주소.png/jpg)](링크URL)   -->
 
 [![2](https://github-production-user-asset-6210df.s3.amazonaws.com/137602870/257270421-7cb47143-7f30-42a2-920a-41725ab1a224.PNG)](https://uhmshomepage.netlify.app/)
 
-## 📰 Homepage
-<!--   [![이미지 이름](이미지 주소.png/jpg)](링크URL)   -->
+<!-- ## 📰 Homepage
+   [![이미지 이름](이미지 주소.png/jpg)](링크URL)   -->
 
 
 
